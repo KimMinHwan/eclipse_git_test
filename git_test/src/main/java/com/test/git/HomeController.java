@@ -35,8 +35,8 @@ public class HomeController {
 		
 		System.out.println("Hellow Git");
 		System.out.println("World's End Dancehall");
-		System.out.println("さげ");
-		System.out.println("更馬虞澗移");
+		System.out.println("abcdefg");
+		System.out.println("hijklmnop");
 		
 		return "home";
 	}
